@@ -1,0 +1,1 @@
+This is the file that was created with the BlazeMeter plugin for bazedemo.com website performance testing. We can import this file on JMeter and then we can add reports like Aggregate Report, Summary Report and many more.
